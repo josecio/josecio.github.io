@@ -91,9 +91,7 @@ layout: page
 
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
-  {% if paginator.previous_page %}
-  <li>I gave a talk (04/2021) at the UMass CIIR Talk Series and presented my team’s <a href="https://docs.google.com/presentation/d/e/2PACX-1vTngMwaUeToWKfFSwCS00pFadyKoukiLwkf0SzgRIkaV8lkgJFLL5p_Dmmo-G7YKnsByx0vwtAbq6aT/pub?start=false&amp;loop=false&amp;delayms=3000">Search As Learning research</a>.</li>
-  
+  {% if paginator.previous_page %}  
   <li class="page-item previous">
     <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer Posts</a>
   </li>
