@@ -3,7 +3,7 @@ layout: post
 title: Mis lecturas de 2020
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [libros, test]
+tags: [libros]
 ---
 
 
