@@ -32,9 +32,9 @@ Después de todo el esfuerzo previo, solo acabé realizando 4 fotografías a la 
 
 Las conclusiones que he podido extraer:
 
--Durante un eclipse lunar, el brillo de la luna es inferior al habitual. Esto se debe a que los rayos solares no le llegan directamente, sino que atraviesan antes la atmósfera de la Tierra (esta dispersión de la luz es precisamente la que provoca el tono rojizo). No tuve en cuenta este fenómeno (aunque es algo completamente obvio) y utilicé un carrete de ISO 100, que era un valor que había visto recomendar para fotografiar la luna. La próxima vez sería mejor usar un ISO superior.
--El sellado del acople al telescopio presentaba fugas de luz. No puse mucho cuidado en su cierre hermético debido  a que iba a fotografiar en completa oscuridad, pero se puede apreciar que la fotografía está ligeramente velada y que en la parte inferior derecha hay una gran mancha de luz.
--Es de gran ayuda probar los equipos antes de la hora de la verdad (esto es aplicable a cualquier aspecto de la vida). Podéis imaginar el estrés de intentar adivinar como funcionaba un telescopio en completa oscuridad, lleno de arena y viendo como el eclipse está desapareciendo.
+- Durante un eclipse lunar, el brillo de la luna es inferior al habitual. Esto se debe a que los rayos solares no le llegan directamente, sino que atraviesan antes la atmósfera de la Tierra (esta dispersión de la luz es precisamente la que provoca el tono rojizo). No tuve en cuenta este fenómeno (aunque es algo completamente obvio) y utilicé un carrete de ISO 100, que era un valor que había visto recomendar para fotografiar la luna. La próxima vez sería mejor usar un ISO superior.
+- El sellado del acople al telescopio presentaba fugas de luz. No puse mucho cuidado en su cierre hermético debido  a que iba a fotografiar en completa oscuridad, pero se puede apreciar que la fotografía está ligeramente velada y que en la parte inferior derecha hay una gran mancha de luz.
+- Es de gran ayuda probar los equipos antes de la hora de la verdad (esto es aplicable a cualquier aspecto de la vida). Podéis imaginar el estrés de intentar adivinar como funcionaba un telescopio en completa oscuridad, lleno de arena y viendo como el eclipse está desapareciendo.
 
 {: .box-note}
 **PD:** Como bonus track os dejo otra fotografía del mismo carrete que las del eclipse lunar para demostrar que la culpa no es de la cámara. Mi Yashica FX-7 se porta de maravilla, pero ha tenido la desgracia de tener un dueño inútil.
