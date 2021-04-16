@@ -12,7 +12,7 @@ Yo no contaba, ni cuento, con lentes de gran distancia focal. La mayor que tengo
 
 Para el experimento, decidí usar mi Yashica FX-7. Esta cámara analógica emplea una montura Contax/Yashica (C/Y), consistente en 3 pestañas equidistantes. No fue díficil replicar este sistema de enganche a través de un software CAD. La pieza la fabriqué con una impresora 3D (un modelo casero basado en la Prusa UPCT) en plástico PLA.
 
-![Texto alternativo](https://github.com/josecio/josecio.github.io/blob/master/assets/img/acople_3d_yashica.jpg)
+<img src="{{ 'assets/img/acople_3d_yashica.jpg' | relative_url }}" alt="Not found" />
 
 Tuve que realizar un par de pruebas con diferentes tolerancias y flujo hasta conseguir una pieza que encajara como un guante en la cámara.
 
