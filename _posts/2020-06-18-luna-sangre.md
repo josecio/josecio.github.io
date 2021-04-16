@@ -10,11 +10,14 @@ El 27 de julio de 2018 se produjo un eclipse lunar total, [el más largo del sig
 
 Yo no contaba, ni cuento, con lentes de gran distancia focal. La mayor que tengo es de 75 mm, lo cual hace inviable fotografiar la luna de forma míninamente decente. No obstante, se me ocurrió aprovechar un telescopio para usarlo como lente. Para ello, haría falta un sistema de acople que permitiera unir el telescopio a una de mis cámaras.
 
-Para el experimento, decidí usar mi Yashica FX-7. Esta cámara analógica emplea una montura Contax/Yashica (C/Y), consistente en 3 pestañas equidistantes. No fue díficil replicar este sistema de enganche a través de un software CAD. La pieza la fabriqué con una impresora 3D (un modelo casero basado en la Prusa UPCT) en plástico PLA.
+Para el experimento, decidí usar mi Yashica FX-7. Esta cámara analógica emplea una montura Contax/Yashica (C/Y), consistente en 3 pestañas equidistantes. No fue díficil replicar este sistema de enganche a través de un software CAD. La pieza la fabriqué con una impresora 3D (un modelo casero basado en la [Prusa UPCT](https://reprap.org/wiki/ETSII_UPCT_Printer/es)) en plástico PLA.
 
-<img src="{{ 'assets/img/acople_3d_yashica.jpg' | relative_url }}" alt="Not found" />
+<img src="{{ 'assets/img/acople_3d_yashica.jpg' | relative_url }}" alt="Diseño 3D de un acople para la Yashica FX-7" />
 
 Tuve que realizar un par de pruebas con diferentes tolerancias y flujo hasta conseguir una pieza que encajara como un guante en la cámara.
+
+<img src="{{ 'assets/img/yashica_acople.jpg' | relative_url }}" alt="Yashica FX-7 con el acople impreso en 3D montado" />
+
 
 ## Calblanque, el mejor lugar para la fotografía nocturna
 
@@ -22,11 +25,13 @@ Nunca antes había intentado fotografiar el cielo nocturno, así que tenía gran
 
 El lugar que elegí para intentar "cazar la luna" fue el parque natural de Calblanque. Las playas de Calblanque no solo están libres de contaminación lumínica, sino que son de una belleza y tranquilidad asombrosas (hasta en pleno verano es muy fácil encontrar una cala desierta). Hay que tener en cuenta que no se puede acceder en coche y que no hay cobertura móvil en ninguna zona del parque, pero merece completamente la pena la visita.
 
-El teslescopio que utilicé fue un Intey de 400 mm de longitud focal. No se trata de un telescopio profesional, ni mucho menos, pero cumple con creces su cometido.
+El teslescopio que utilicé fue un [Intey](https://www.amazon.es/gp/product/B06Y315D9N/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1) de 400 mm de longitud focal. No se trata de un telescopio profesional, ni mucho menos, pero cumple con creces su cometido.
 
 No tuve tiempo de probar el telescopio antes del eclipse, así que el proceso de sacar las fotografías fue básicamente un desastre.
 
 La mejor de ellas es esta:
+
+<img src="{{ 'assets/img/eclipse.jpg' | relative_url }}" alt="Fotografía de un eclipse de luna" />
 
 ## De los errores se aprende
 
@@ -40,4 +45,6 @@ Las conclusiones que he podido extraer:
 
 
 {: .box-note}
-**PD:** Como bonus track os dejo otra fotografía del mismo carrete que me gusta mucho :)
+**PD:** Como bonus track os dejo otra fotografía, del mismo carrete, que me gusta mucho :)
+
+<img src="{{ 'assets/img/kayak.jpg' | relative_url }}" alt="Pareja pilotando un kayak en el mar" />
