@@ -14,7 +14,7 @@ Para el experimento, decidí usar mi Yashica FX-7. Esta cámara analógica emple
 
 Tuve que realizar un par de pruebas con diferentes tolerancias y flujo hasta conseguir una pieza que encajara como un guante en la cámara.
 
-**Calblanque, el mejor lugar para la fotografía nocturna
+** Calblanque, el mejor lugar para la fotografía nocturna
 
 Nunca antes había intentado fotografiar el cielo nocturno, así que tenía grandes dudas sobre cúales serían los parámetros más indicados. Haciendo caso a la sabiduría de Internet, opté por cargar en la cámara un carrete Fujicolor de ISO 100.
 
@@ -26,7 +26,7 @@ No tuve tiempo de probar el telescopio antes del eclipse, así que el proceso de
 
 La mejor de ellas es esta:
 
-**De los errores se aprende
+** De los errores se aprende
 
 Después de todo el esfuerzo previo, solo acabé realizando 4 fotografías a la luna (las otras 3 son literalmente borrones, por eso no las he incluido aquí). La razón es que perdí mucho tiempo peleándome con el telescopio para poder enfocar la luna, que además se movía a una velocidad endiablada, obligándome a mover el ángulo del telescopio continuamente.
 
