@@ -37,4 +37,4 @@ Las conclusiones que he podido extraer:
 -Es de gran ayuda probar los equipos antes de la hora de la verdad (esto es aplicable a cualquier aspecto de la vida). Podéis imaginar el estrés de intentar adivinar como funcionaba un telescopio en completa oscuridad, lleno de arena y viendo como el eclipse está desapareciendo.
 
 {: .box-note}
-**Note:** This is a notification box.
+**PD:** Como bonus track os dejo otra fotografía del mismo carrete que las del eclipse lunar para demostrar que la culpa no es de la cámara. Mi Yashica FX-7 se porta de maravilla, pero ha tenido la desgracia de tener un dueño inútil.
