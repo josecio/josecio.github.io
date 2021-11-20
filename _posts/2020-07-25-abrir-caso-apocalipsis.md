@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Abrir en caso de Apocalipsis, Lewis Dartnell
-subtitle: 
+title: Abrir en caso de Apocalipsis
+subtitle: Lewis Dartnell
 tags: [libros]
 ---
 
