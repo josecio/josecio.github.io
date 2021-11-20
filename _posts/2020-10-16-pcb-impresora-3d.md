@@ -46,13 +46,13 @@ Utilicé unos trozos de cinta para marcar la posición de la placa en la pantall
 
 Al no estar seguro del tiempo apropiado de exposición para la placa, corté varios pedazos para hacer pruebas. Creo que acabé usando un tiempo entre 7 y 12 minutos.
 
-<img src="{{ 'assets/img/pcb_pruebas_tiempo.jpg' | relative_url }}" alt="Trozos de PCB para pruebas />
+<img src="{{ 'assets/img/pcb_pruebas_tiempo.jpg' | relative_url }}" alt="Trozos de PCB para pruebas" />
 
 Una vez expuesta la placa, ya se puede seguir con el procedimiento habitual. Tendremos que revelar el circuito usando sosa caústica y, luego, atacarlo con el ácido   
 
-<img src="{{ 'assets/img/pcb_revelado.jpg' | relative_url }}" alt="PCB revelado />                                                                        
+<img src="{{ 'assets/img/pcb_revelado.jpg' | relative_url }}" alt="PCB revelado" />                                                                        
 
 Por último, solo queda hacer los taladros para los componentes.
 
-<img src="{{ 'assets/img/pcb_taladro.jpg' | relative_url }}" alt="PCB con taladro /> 
+<img src="{{ 'assets/img/pcb_taladro.jpg' | relative_url }}" alt="PCB con taladro" /> 
 
