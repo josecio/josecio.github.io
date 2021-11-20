@@ -21,13 +21,9 @@ El progreso tecnológico de las últimas décadas ha conllevado una gran distrib
 
 En el famoso ensayo «Yo, el lápiz», Leonard Read pone de manifiesto que ninguna persona tiene el conocimiento y los recursos necesarios para fabricar ni siquiera algo tan sencillo como un lápiz. En su fabricación intervienen tareas tan complejas como la extracción de grafito, la tala de madera o la elaboración de pintura y barnices.
 
-Andy George, un youtuber estadounidense, necesitó 6 meses y 1500 dólares para cocinar una hamburguesa desde cero. Andy tuvo que cultivar cereales para elaborar pan, ordeñar a una vaca para producir queso o viajar en avión hasta la costa más cercana para poder extraer sal del agua.
+Andy George, un youtuber estadounidense, necesitó 6 meses y 1500 dólares para [cocinar una hamburguesa desde cero](https://www.youtube.com/watch?v=URvWSsAgtJE). Andy tuvo que cultivar cereales para elaborar pan, ordeñar a una vaca para producir queso o viajar en avión hasta la costa más cercana para poder extraer sal del agua.
 
 La cosa se hubiera complicado si, además, se hubiera propuesto fabricar él mismo las sartenes y cuchillos o producir la electricidad que necesitó.
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=URvWSsAgtJE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
 ## Preservar el conocimiento
 
