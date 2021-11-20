@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Insolado de PCB con impresora 3D DLP
-subtitle: Una 35 mm todoterreno
+subtitle: 
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [proyectos]
