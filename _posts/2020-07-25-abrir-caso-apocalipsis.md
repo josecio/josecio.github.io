@@ -25,6 +25,10 @@ Andy George, un youtuber estadounidense, necesitó 6 meses y 1500 dólares para 
 
 La cosa se hubiera complicado si, además, se hubiera propuesto fabricar él mismo las sartenes y cuchillos o producir la electricidad que necesitó.
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=URvWSsAgtJE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## Preservar el conocimiento
 
 {: .box-note}
