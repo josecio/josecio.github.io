@@ -13,7 +13,7 @@ Ya había fabricado placas con anterioridad, pero en esta ocasión no contaba co
 
 En su momento no encontré casi ninguna información sobre este método, así que aprovecho para documentar mi experiencia (aunque sea con casi 2 años de retraso) por si a alguien le resulta de utilidad.
 
-<img src="{{ 'assets/img/chart(1).png' | relative_url }}" alt="Esquemático del PCB a insolar" />
+<img src="{{ 'assets/img/pcb_schematic.png' | relative_url }}" alt="Esquemático del PCB a insolar" />
 
 ## La impresora Photon de Anycubic
 
@@ -21,7 +21,7 @@ Las impresoras 3D DLP (Direct Light Processing) son aquellas que obtienen la pie
 
 Estas impresoras descienden directamente de las SLA (las primeras impresoras 3D que se concibieron), que utilizan un único haz laser junto a juego de espejos para ir curando los diferentes puntos que formarán parte de la pieza. Las DLP, en cambio, pueden curar al mismo tiempo todos los puntos de una capa.
 
-La impresora que utilicé para este experimento fue la Photon de Anycubic. Esta impresora cuenta con una pantalla LCD de resolución 2K (2560×1440), lo cual supone un nivel de detalle excelente para exponer una PCB. Este modelo y su versión mejorada son muy populares entre la comunidad maker debido a su bajo coste.
+La impresora que utilicé para este experimento fue la [Photon de Anycubic](https://www.anycubic.com/products/anycubic-photon-3d-printer). Esta impresora cuenta con una pantalla LCD de resolución 2K (2560×1440), lo cual supone un nivel de detalle excelente para exponer una PCB. Este modelo y su versión mejorada son muy populares entre la comunidad maker debido a su bajo coste.
 Impresora DLP Photon
 
 ## Preparando el STL
@@ -30,10 +30,11 @@ Para fabricar una PCB de forma correcta, debemos conservar el recubrimiento foto
 
 La forma más sencilla que se me ocurrió para «engañar» a la impresora fue realizar una pieza extruyendo el negativo de la placa.
 
-En primer lugar, debemos obtener una imagen plana de nuestro circuito desde el programa que hayamos usado para diseñarlo. Para invertir los colores de esta imagen recomiendo usar Inkscape, un editor de gráficos vectoriales de código abierto.
+En primer lugar, debemos obtener una imagen plana de nuestro circuito desde el programa que hayamos usado para diseñarlo. Para invertir los colores de esta imagen recomiendo usar [Inkscape](https://inkscape.org/), un editor de gráficos vectoriales de código abierto.
 
 Una vez obtenido el negativo de nuestra placa, lo exportamos en formato SVG. Por último, importamos este archivo a nuestro programa de diseño 3D favorito y lo extruimos.
-STL de la imagen del PCB invertida
+
+<img src="{{ 'assets/img/pcb_stl.png' | relative_url }}" alt="STL de la imagen del PCB invertida" />
 
 Las impresoras Photon cuentan con su propio slicer (el programa usado para generar el G-code) que se puede descargar gratuitamente desde su web. Este programa nos deja configurar (entre otros muchos parámetros) el tiempo de exposición de la capa inferior, por lo que podemos ajustarlo según nos convenga.
 
