@@ -13,7 +13,7 @@ Ya había fabricado placas con anterioridad, pero en esta ocasión no contaba co
 
 En su momento no encontré casi ninguna información sobre este método, así que aprovecho para documentar mi experiencia (aunque sea con casi 2 años de retraso) por si a alguien le resulta de utilidad.
 
-<img src="{{ 'assets/img/pcb_schematic.png' | relative_url }}" alt="Esquemático del PCB a insolar" />
+<img src="{{ 'assets/img/pcb_schematic.jpg' | relative_url }}" alt="Esquemático del PCB a insolar" />
 
 ## La impresora Photon de Anycubic
 
@@ -34,7 +34,7 @@ En primer lugar, debemos obtener una imagen plana de nuestro circuito desde el p
 
 Una vez obtenido el negativo de nuestra placa, lo exportamos en formato SVG. Por último, importamos este archivo a nuestro programa de diseño 3D favorito y lo extruimos.
 
-<img src="{{ 'assets/img/pcb_stl.png' | relative_url }}" alt="STL de la imagen del PCB invertida" />
+<img src="{{ 'assets/img/pcb_stl.jpg' | relative_url }}" alt="STL de la imagen del PCB invertida" />
 
 Las impresoras Photon cuentan con su propio slicer (el programa usado para generar el G-code) que se puede descargar gratuitamente desde su web. Este programa nos deja configurar (entre otros muchos parámetros) el tiempo de exposición de la capa inferior, por lo que podemos ajustarlo según nos convenga.
 
