@@ -23,7 +23,7 @@ En el famoso ensayo «Yo, el lápiz», Leonard Read pone de manifiesto que ningu
 
 Andy George, un youtuber estadounidense, necesitó 6 meses y 1500 dólares para [cocinar una hamburguesa desde cero](https://www.youtube.com/watch?v=URvWSsAgtJE). Andy tuvo que cultivar cereales para elaborar pan, ordeñar a una vaca para producir queso o viajar en avión hasta la costa más cercana para poder extraer sal del agua.
 
-La cosa se hubiera complicado si, además, se hubiera propuesto fabricar él mismo las sartenes y cuchillos o producir la electricidad que necesitó.
+La cosa se hubiera complicado si, además, se hubiera propuesto fabricar él mismo los cuchillos que usó o producir la electricidad que necesitó.
 
 ## Preservar el conocimiento
 
