@@ -6,16 +6,16 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [libros]
 ---
-https://www.laverdad.es/murcia/upct-crea-robot-20191002111213-nt.html
 
-Mi TFG del grado de Ingeniería en Tecnologías Industriales se basó en el diseño y fabricación de un robot asistencial para la tercera edad. El objetivo principal era construir un asistente que pudiera hacer un seguimiento del estado anímico del paciente, le recordara la toma de pastillas y, principalmente, le hiciera compañía.
+
+Mi TFG del grado de Ingeniería en Tecnologías Industriales se basó en el diseño y fabricación de un [robot asistencial para la tercera edad](https://www.laverdad.es/murcia/upct-crea-robot-20191002111213-nt.html). El objetivo principal era construir un asistente que pudiera hacer un seguimiento del estado anímico del paciente, le recordara la toma de pastillas y, principalmente, le hiciera compañía.
 
 Desde el principio del proyecto, resultó evidente que la forma de comunicarse con el robot debía basarse en una interfaz de voz (VUI), ya que estas presentan una serie de ventajas que las hacen perfectas para un robot asistencial.
 
 Al basarse la interacción en el lenguaje natural son más sencillas de usar que los botones o teclados en pantalla. Además, al no necesitar contacto físico son muy útiles en caso de caídas o pacientes con problemas motores. Y, lo más importante, el lenguaje natural permite que se establezca una comunicación más cercana entre el robot y la persona, más empática.
 Componentes de una interfaz de voz
 
-Cuando comencé mi proyecto no tenía ni idea de cómo funciona una interfaz de voz. Uno de los libros que más me ayudó fue Designing Voice User Interfaces: Principles of Conversational Experiences, de Cathy Pearl. También obtuve mucha información de la documentación de Snips, Mycroft y de las API de Google.
+Cuando comencé mi proyecto no tenía ni idea de cómo funciona una interfaz de voz. Uno de los libros que más me ayudó fue [Designing Voice User Interfaces: Principles of Conversational Experiences](https://www.oreilly.com/library/view/designing-voice-user/9781491955406/), de Cathy Pearl. También obtuve mucha información de la documentación de Snips, [Mycroft](https://mycroft-ai.gitbook.io/docs/) y de las API de Google.
 
 Para implementar una interfaz de voz necesitamos, al menos, los siguientes componentes:
 
