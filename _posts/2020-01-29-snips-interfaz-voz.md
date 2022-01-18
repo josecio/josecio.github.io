@@ -1,4 +1,12 @@
-
+---
+layout: post
+title: Trasteando con Snips
+subtitle: Cómo funciona una interfaz de voz
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [libros]
+---
+https://www.laverdad.es/murcia/upct-crea-robot-20191002111213-nt.html
 
 Mi TFG del grado de Ingeniería en Tecnologías Industriales se basó en el diseño y fabricación de un robot asistencial para la tercera edad. El objetivo principal era construir un asistente que pudiera hacer un seguimiento del estado anímico del paciente, le recordara la toma de pastillas y, principalmente, le hiciera compañía.
 
